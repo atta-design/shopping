@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/shopping/static/css/main.60a3adb2.chunk.css",
+    "main.js": "/shopping/static/js/main.51faec7b.chunk.js",
+    "main.js.map": "/shopping/static/js/main.51faec7b.chunk.js.map",
+    "runtime-main.js": "/shopping/static/js/runtime-main.8d9a3f69.js",
+    "runtime-main.js.map": "/shopping/static/js/runtime-main.8d9a3f69.js.map",
+    "static/js/2.e2c1ef63.chunk.js": "/shopping/static/js/2.e2c1ef63.chunk.js",
+    "static/js/2.e2c1ef63.chunk.js.map": "/shopping/static/js/2.e2c1ef63.chunk.js.map",
+    "static/js/3.cb2cf10d.chunk.js": "/shopping/static/js/3.cb2cf10d.chunk.js",
+    "static/js/3.cb2cf10d.chunk.js.map": "/shopping/static/js/3.cb2cf10d.chunk.js.map",
+    "index.html": "/shopping/index.html",
+    "static/css/main.60a3adb2.chunk.css.map": "/shopping/static/css/main.60a3adb2.chunk.css.map",
+    "static/js/2.e2c1ef63.chunk.js.LICENSE.txt": "/shopping/static/js/2.e2c1ef63.chunk.js.LICENSE.txt",
+    "static/media/MWP22.22195eb4.jpg": "/shopping/static/media/MWP22.22195eb4.jpg",
+    "static/media/MacBook_Pro_met_M1_voorkant.5d438011.jpg": "/shopping/static/media/MacBook_Pro_met_M1_voorkant.5d438011.jpg",
+    "static/media/iphone-12-pro-graphite-hero.3d17deb0.jpg": "/shopping/static/media/iphone-12-pro-graphite-hero.3d17deb0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d9a3f69.js",
+    "static/js/2.e2c1ef63.chunk.js",
+    "static/css/main.60a3adb2.chunk.css",
+    "static/js/main.51faec7b.chunk.js"
+  ]
+}
