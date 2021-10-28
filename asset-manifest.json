@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/shopping/static/css/main.4e2a6a93.chunk.css",
-    "main.js": "/shopping/static/js/main.04214074.chunk.js",
-    "main.js.map": "/shopping/static/js/main.04214074.chunk.js.map",
-    "runtime-main.js": "/shopping/static/js/runtime-main.95a3d7b6.js",
-    "runtime-main.js.map": "/shopping/static/js/runtime-main.95a3d7b6.js.map",
-    "static/js/2.bcaa9c85.chunk.js": "/shopping/static/js/2.bcaa9c85.chunk.js",
-    "static/js/2.bcaa9c85.chunk.js.map": "/shopping/static/js/2.bcaa9c85.chunk.js.map",
-    "static/js/3.5c2a212b.chunk.js": "/shopping/static/js/3.5c2a212b.chunk.js",
-    "static/js/3.5c2a212b.chunk.js.map": "/shopping/static/js/3.5c2a212b.chunk.js.map",
+    "main.css": "/shopping/static/css/main.3651fae8.chunk.css",
+    "main.js": "/shopping/static/js/main.a76e40ad.chunk.js",
+    "main.js.map": "/shopping/static/js/main.a76e40ad.chunk.js.map",
+    "runtime-main.js": "/shopping/static/js/runtime-main.d6afd78f.js",
+    "runtime-main.js.map": "/shopping/static/js/runtime-main.d6afd78f.js.map",
+    "static/js/2.72246318.chunk.js": "/shopping/static/js/2.72246318.chunk.js",
+    "static/js/2.72246318.chunk.js.map": "/shopping/static/js/2.72246318.chunk.js.map",
+    "static/js/3.029702fd.chunk.js": "/shopping/static/js/3.029702fd.chunk.js",
+    "static/js/3.029702fd.chunk.js.map": "/shopping/static/js/3.029702fd.chunk.js.map",
     "index.html": "/shopping/index.html",
-    "static/css/main.4e2a6a93.chunk.css.map": "/shopping/static/css/main.4e2a6a93.chunk.css.map",
-    "static/js/2.bcaa9c85.chunk.js.LICENSE.txt": "/shopping/static/js/2.bcaa9c85.chunk.js.LICENSE.txt",
+    "static/css/main.3651fae8.chunk.css.map": "/shopping/static/css/main.3651fae8.chunk.css.map",
+    "static/js/2.72246318.chunk.js.LICENSE.txt": "/shopping/static/js/2.72246318.chunk.js.LICENSE.txt",
     "static/media/13-Mb-Pro-Tb-1-4-Qc-8G-I5-128G-Sg-000000000003007118-Detail.acf7e7fd.jpg": "/shopping/static/media/13-Mb-Pro-Tb-1-4-Qc-8G-I5-128G-Sg-000000000003007118-Detail.acf7e7fd.jpg",
     "static/media/413234_758065458_01.1b0bcbca.jpg": "/shopping/static/media/413234_758065458_01.1b0bcbca.jpg",
     "static/media/71nM55mRvxL._AC_SL1475_.03f3b9ab.jpg": "/shopping/static/media/71nM55mRvxL._AC_SL1475_.03f3b9ab.jpg",
@@ -21,15 +21,15 @@
     "static/media/Samsung-Galaxy-A52-5G-Duos-128GB-Black-8806090874017-31032021-01-p.0243aa75.jpg": "/shopping/static/media/Samsung-Galaxy-A52-5G-Duos-128GB-Black-8806090874017-31032021-01-p.0243aa75.jpg",
     "static/media/apple-keyboard-high-resolution-stock-images-1080P-wallpaper-middle-size.2d9994f7.jpg": "/shopping/static/media/apple-keyboard-high-resolution-stock-images-1080P-wallpaper-middle-size.2d9994f7.jpg",
     "static/media/czb3oskl.f16568ae.jpg": "/shopping/static/media/czb3oskl.f16568ae.jpg",
-    "static/media/featured-section-give-back-trade-in_2x.00a93e6a.jpg": "/shopping/static/media/featured-section-give-back-trade-in_2x.00a93e6a.jpg",
+    "static/media/how-to-add-the-black-unity-collection-wallpaper-to-your-appl_zkk4.1920.801cf98b.jpg": "/shopping/static/media/how-to-add-the-black-unity-collection-wallpaper-to-your-appl_zkk4.1920.801cf98b.jpg",
     "static/media/iphone-12-pro-graphite-hero.3d17deb0.jpg": "/shopping/static/media/iphone-12-pro-graphite-hero.3d17deb0.jpg",
     "static/media/iphone-13-review-hero.c19c7bae.jpeg": "/shopping/static/media/iphone-13-review-hero.c19c7bae.jpeg",
     "static/media/lenovo_82fg00dnus_ip5_i5_1135g7_16gb_512gb_1617922.527cc4d2.jpg": "/shopping/static/media/lenovo_82fg00dnus_ip5_i5_1135g7_16gb_512gb_1617922.527cc4d2.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.95a3d7b6.js",
-    "static/js/2.bcaa9c85.chunk.js",
-    "static/css/main.4e2a6a93.chunk.css",
-    "static/js/main.04214074.chunk.js"
+    "static/js/runtime-main.d6afd78f.js",
+    "static/js/2.72246318.chunk.js",
+    "static/css/main.3651fae8.chunk.css",
+    "static/js/main.a76e40ad.chunk.js"
   ]
 }
