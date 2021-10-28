@@ -1,6 +1,6 @@
 import React from 'react'
 import '../App.css';
-
+import '../media.css'
 import {Navbar,Nav} from 'react-bootstrap'
 import {Link} from 'react-scroll'
 function Header(props) {

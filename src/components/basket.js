@@ -1,7 +1,7 @@
 import React , {useState} from 'react'
 import '../App.css';
 import {Modal} from 'react-bootstrap'
-
+import '../media.css'
 function Basket(props) {
 const[show,setShow]=useState(false)
 
@@ -18,9 +18,12 @@ const closeshow=()=>{
     const totalprice=itemsprice+taxprice+shippingprice;
     return (
         <div className='basket' id="id1">
+            <div className='basket-title'>
              <h3 >basket</h3> 
+             </div>
                <div>
-           {carditem.length===0 && <div> Basket is empty </div>}
+           {carditem.length===0 && <div><h3> Basket is empty! </h3>
+           <p>You can add what you want to your basket</p></div>}
            </div>
             <div className='mt-3 ml-5 mr-5'>
           
@@ -57,7 +60,7 @@ const closeshow=()=>{
               </>
           )}
           <button 
-         className='btn btn-success w-50 mb-1 ' onClick={openshow} >Check Out</button>
+         className='btn btn-success  checkout-btn ' onClick={openshow} >Check Out</button>
         <Modal show={show} onHide={closeshow} size="lg">
 
  <Modal.Body>

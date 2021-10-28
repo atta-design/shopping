@@ -11,10 +11,11 @@ border-radius: 10%;
 }
 .main{
   background-color: gainsboro;
-   
-  margin-top: 30px;
+   width: 98%;
+  margin-top: 30px!important;
   padding-bottom: 10px;
-
+  
+margin: 0 auto;
 }
 .basket{
   background-color:gainsboro ;
@@ -22,6 +23,7 @@ border-radius: 10%;
   border-left: 5px solid snow;
  width: 70%;
  margin: 20px auto;
+ 
   
 }
 .small{
@@ -75,4 +77,45 @@ margin: 0 auto;
 }
 .brand{
   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.footer{
+background-color: teal;
+width: 100vw;
+height:20vh;
+
+}
+.footer-txt{
+margin-top: 30px;
+
+}
+.checkout-btn{
+height: 7vh;
+margin-top:11vw;
+margin-bottom: 1vw;
+width: 20vw;
+}
+.basket-title{
+background-color: rgb(63, 58, 58);
+color: aliceblue;
+padding-top: 1.5vh;
+padding-bottom: 1.5vh;
+margin-bottom: 1vh;
+
+}
+.main-title{
+  background-color: rgb(63, 58, 58);
+color: aliceblue;
+
+padding-top: 1.5vh;
+padding-bottom: 1.5vh;
+margin-bottom: 10vh;
+}
+p{
+  font-size: 1vw;
+}
+h3{
+  font-size: 2vw;
+}
+.slide-pic{
+  height: 120vh;
 }

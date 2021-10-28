@@ -1,9 +1,10 @@
 import React from 'react'
 import Iphone13 from '../picture/iphone-13-review-hero.jpeg'
 import Apple from '../picture/apple-keyboard-high-resolution-stock-images-1080P-wallpaper-middle-size.jpg'
-import Feature from '../picture/featured-section-give-back-trade-in_2x.jpg'
+import Feature from '../picture/how-to-add-the-black-unity-collection-wallpaper-to-your-appl_zkk4.1920.jpg'
 import {Carousel} from 'react-bootstrap'
 import '../App.css';
+import '../media.css'
 
 function Carousels() {
     return (
@@ -11,7 +12,7 @@ function Carousels() {
             <Carousel>
   <Carousel.Item>
     <img
-      className="d-block w-100"
+      className="d-block w-100 slide-pic"
       src={Iphone13}
       alt="First slide"
     />
@@ -22,7 +23,7 @@ function Carousels() {
   </Carousel.Item>
   <Carousel.Item>
     <img
-      className="d-block w-100"
+      className="d-block w-100 slide-pic"
       src={Apple}
       alt="Second slide"
     />
@@ -34,7 +35,7 @@ function Carousels() {
   </Carousel.Item>
   <Carousel.Item>
     <img
-      className="d-block w-100"
+      className="d-block w-100 slide-pic"
       src={Feature}
       alt="Third slide"
     />

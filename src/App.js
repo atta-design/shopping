@@ -1,13 +1,12 @@
 import './App.css';
+import './media.css'
 import Header from './components/header'
 import Main from './components/main'
 import Basket from './components/basket'
 import data from './components/data'
-import Dicription from './components/Dicription'
 import Carousels from './components/Carousel'
 import React ,{useState} from 'react'
-import {Route} from 'react-router-dom'
-
+import Footer from './components/footer'
 function App() {
   const {products} = data 
  const [carditem,setcarditem]=useState([])
@@ -39,9 +38,7 @@ function App() {
      <div className='row ml-1 mr-1'>
 <Main onadd={onadd} products={products}/>
 <Basket onadd={onadd} onremove={onremove} carditem={carditem} />
-{/* <Dicription/> */}
-
-{/* <Route component={Input}/> */}
+<Footer/>
 </div>
     </div>
   );
