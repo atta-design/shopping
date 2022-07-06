@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/shopping/static/css/main.3651fae8.chunk.css",
-    "main.js": "/shopping/static/js/main.a76e40ad.chunk.js",
-    "main.js.map": "/shopping/static/js/main.a76e40ad.chunk.js.map",
-    "runtime-main.js": "/shopping/static/js/runtime-main.d6afd78f.js",
-    "runtime-main.js.map": "/shopping/static/js/runtime-main.d6afd78f.js.map",
-    "static/js/2.72246318.chunk.js": "/shopping/static/js/2.72246318.chunk.js",
-    "static/js/2.72246318.chunk.js.map": "/shopping/static/js/2.72246318.chunk.js.map",
-    "static/js/3.029702fd.chunk.js": "/shopping/static/js/3.029702fd.chunk.js",
-    "static/js/3.029702fd.chunk.js.map": "/shopping/static/js/3.029702fd.chunk.js.map",
+    "main.css": "/shopping/static/css/main.d8a43c3d.chunk.css",
+    "main.js": "/shopping/static/js/main.d8bad4e3.chunk.js",
+    "main.js.map": "/shopping/static/js/main.d8bad4e3.chunk.js.map",
+    "runtime-main.js": "/shopping/static/js/runtime-main.744bdb3f.js",
+    "runtime-main.js.map": "/shopping/static/js/runtime-main.744bdb3f.js.map",
+    "static/js/2.42a76c84.chunk.js": "/shopping/static/js/2.42a76c84.chunk.js",
+    "static/js/2.42a76c84.chunk.js.map": "/shopping/static/js/2.42a76c84.chunk.js.map",
+    "static/js/3.962f7ed4.chunk.js": "/shopping/static/js/3.962f7ed4.chunk.js",
+    "static/js/3.962f7ed4.chunk.js.map": "/shopping/static/js/3.962f7ed4.chunk.js.map",
     "index.html": "/shopping/index.html",
-    "static/css/main.3651fae8.chunk.css.map": "/shopping/static/css/main.3651fae8.chunk.css.map",
-    "static/js/2.72246318.chunk.js.LICENSE.txt": "/shopping/static/js/2.72246318.chunk.js.LICENSE.txt",
+    "static/css/main.d8a43c3d.chunk.css.map": "/shopping/static/css/main.d8a43c3d.chunk.css.map",
+    "static/js/2.42a76c84.chunk.js.LICENSE.txt": "/shopping/static/js/2.42a76c84.chunk.js.LICENSE.txt",
     "static/media/13-Mb-Pro-Tb-1-4-Qc-8G-I5-128G-Sg-000000000003007118-Detail.acf7e7fd.jpg": "/shopping/static/media/13-Mb-Pro-Tb-1-4-Qc-8G-I5-128G-Sg-000000000003007118-Detail.acf7e7fd.jpg",
     "static/media/413234_758065458_01.1b0bcbca.jpg": "/shopping/static/media/413234_758065458_01.1b0bcbca.jpg",
     "static/media/71nM55mRvxL._AC_SL1475_.03f3b9ab.jpg": "/shopping/static/media/71nM55mRvxL._AC_SL1475_.03f3b9ab.jpg",
@@ -27,9 +27,9 @@
     "static/media/lenovo_82fg00dnus_ip5_i5_1135g7_16gb_512gb_1617922.527cc4d2.jpg": "/shopping/static/media/lenovo_82fg00dnus_ip5_i5_1135g7_16gb_512gb_1617922.527cc4d2.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d6afd78f.js",
-    "static/js/2.72246318.chunk.js",
-    "static/css/main.3651fae8.chunk.css",
-    "static/js/main.a76e40ad.chunk.js"
+    "static/js/runtime-main.744bdb3f.js",
+    "static/js/2.42a76c84.chunk.js",
+    "static/css/main.d8a43c3d.chunk.css",
+    "static/js/main.d8bad4e3.chunk.js"
   ]
 }
