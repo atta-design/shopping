@@ -13,12 +13,12 @@ function Header(props) {
         
   <Nav >
             
-         <Navbar.Brand><span className='brand'>SHOP MARKET</span> </Navbar.Brand>  
+         <Navbar.Brand><span className='brand'>TECH MARKET</span> </Navbar.Brand>  
 
            
 </Nav>
 <Nav className='ml-auto'>
-            <Nav.Link > <Link  to='id1' smooth={true}>basket</Link> {carditemnum !==0 && <span className='badge badge-danger'>{carditemnum}</span> } </Nav.Link>
+            <Nav.Link > <Link  to='id1' smooth={true}> <i className='fas fa-shopping-cart	'  ></i></Link> {carditemnum !==0 && <span className='badge badge-danger'>{carditemnum}</span> } </Nav.Link>
          
 </Nav>
         

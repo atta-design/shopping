@@ -7,8 +7,11 @@ import data from './components/data'
 import Carousels from './components/Carousel'
 import React ,{useState} from 'react'
 import Footer from './components/footer'
+import IconContainer from './components/icon_container'
+import Colapse from './components/colapse';
 function App() {
-  const {products} = data 
+  const {popularProducts} = data 
+  const {products}=data
  const [carditem,setcarditem]=useState([])
  const onadd=(product)=>{
 
@@ -33,13 +36,20 @@ function App() {
   return (
     
     <div className="App">
+{console.log(popularProducts)}
      <Header carditemnum={carditem.length} />
      <Carousels/>
-     <div className='row ml-1 mr-1'>
-<Main onadd={onadd} products={products}/>
-<Basket onadd={onadd} onremove={onremove} carditem={carditem} />
-<Footer/>
-</div>
+     
+     <IconContainer/>
+<Main onadd={onadd} products={products} popular={popularProducts}/>
+
+<Colapse/>
+  
+ <Basket onadd={onadd} onremove={onremove} carditem={carditem} />
+<Footer/> 
+
+
+
     </div>
   );
 }

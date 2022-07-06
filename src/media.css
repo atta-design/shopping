@@ -2,8 +2,8 @@
 
     .box{
         width: 300px!important;
-        height: 400px;
-        margin: 0 auto!important;
+       
+        margin: 20px auto!important;
 
     }
     .small{
@@ -14,14 +14,18 @@
     .slide-pic{
         height: 110vh!important;
       }
+         .productIMG{
+        width: 280px;
+        height:300px;
+        }
     
 }
 @media only screen and (max-width:633px) {
 
     .box{
         width: 400px!important;
-        height: 400px;
-        margin: 0 auto!important;
+       
+        margin: 40px auto!important;
 
     }
     .small{
@@ -38,6 +42,10 @@
         height: 80vh!important;
         
       }
+      .productIMG{
+        width: 320px;
+        height:300px;
+        }
 }
 
 @media only screen and (max-width:497px){
@@ -60,5 +68,19 @@ font-size: 4vw;
     height: 60vh!important;
   }
 
+
+}
+@media only screen and (max-width:440px){
+
+   .box{
+    width: 80%!important;
+    background-color: brown!important;
+   }
+   .productIMG{
+    width: 280px;
+   }
+   .basket{
+    width: 90%!important;
+   }
 
 }

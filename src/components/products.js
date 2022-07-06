@@ -2,7 +2,7 @@ import React,{useState} from 'react'
 import '../App.css';
 import {Modal,Button} from 'react-bootstrap'
 import '../media.css'
-
+import StarRatingComponent from 'react-star-rating-component';
 
 function Products(props) {
     const[show,setShow]=useState(false)
@@ -21,13 +21,21 @@ const handleClose=()=>{
         <> 
         <div className='box' >
            <div onClick={handleshow} >
-                <div  >
+               
                    
-            <img className='small' src={product.img} alt={product.name} />
-            <h3>{product.name}</h3>
-            <div>${product.price}</div> 
+            <img className='productIMG' src={product.img} alt={product.name} />
+ <div className='text-left ml-3' >
+            <h5 className='mt-3'>{product.name} </h5>
+            <h2>${product.price}</h2> 
           
             </div>
+            <StarRatingComponent 
+          name="rate2" 
+          editing={false}
+          renderStarIcon={() => <span><i class="fa fa-star" aria-hidden="true"></i></span>}
+          starCount={5}
+          value={3}
+        />
             </div>
            
            
